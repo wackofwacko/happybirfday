@@ -1,1 +1,0 @@
-Add your photos here and assign their filenames in customize.js.
